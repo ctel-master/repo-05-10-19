@@ -1,5 +1,39 @@
-# repo-05-10-19
+# Конспект лекции  05.10.19
 
-## Заголовок 2 
+Жуков Николай Николаевич
 
-*Репозиторий* от __5 октября 2019 года__
+кафедра информационных технологий и электр. обучения, ауд. 309
+
+nzhukov@herzen.spb.ru
+
+Информационно-образовательная среда дополнительного образования (практ)
+
+- СДО РГПУ им. А. И. Герцена: moodle.herzen.spb.ru
+
+https://moodle.herzen.spb.ru/course/view.php?id=5470
+
+5470
+
+- zhukov.moodlecloud.com
+
+- GitHub (название сервиса), технология git (блокчейн)
+
+opop.herzen.spb.ru
+
+https://lib.herzen.spb.ru/p/ebs-classbooks-books
+
+
+Репозиторий (repo, repository) - хранилище данны
+
+Ветвь (branch) - ветвь
+
+master branch - главная ветвь
+
+commit (коммит) - действие (операция) фиксации измений 
+
+файл HTML (HyperText Markup Language)
+
+Разметка Markdown
+
+
+
